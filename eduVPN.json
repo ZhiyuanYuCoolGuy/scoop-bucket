@@ -1,0 +1,13 @@
+{
+  "version": "latest",
+  "description": "eduVPN client",
+  "homepage": "https://www.eduvpn.org",
+  "license": "GPL-3.0",
+  "url": "https://eduvpn.org/download/latest-version.exe",
+  "hash": "SHA256_HASH_HERE",
+  "bin": "eduvpn.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://eduvpn.org/download/latest-version.exe"
+  }
+}
